@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="DropDownControl.ascx.cs" Inherits="Fill_UserControl_DropDownList.DropDownControl" %>
+<asp:DropDownList ID="DropDownList1" runat="server"></asp:DropDownList>
